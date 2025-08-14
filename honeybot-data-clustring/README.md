@@ -3,7 +3,7 @@
 **Author**: Nashat Alfarajat – BlockShield AI Development Team (Intern)  
 **Files**:
 - `Task 2 – AI Integration of BlockShield Project.pdf` – Full report
-- `Cowire EDA & Clustering.ipynb` – Jupyter notebook for analysis and clustering
+- `Cowrie EDA & Clustering.ipynb` – Jupyter notebook for analysis and clustering
 
 ---
 
@@ -22,5 +22,5 @@ A brief spike analysis and cluster interpretation are also included in the repor
 
 ## 🚀 How to Use
 
-- Open the notebook (`Cowire EDA & Clustering.ipynb`) to follow the analysis and code
+- Open the notebook (`Cowrie EDA & Clustering.ipynb`) to follow the analysis and code
 - Read the report (`Task 2 – AI Integration of BlockShield Project.pdf`) for full results and explanation
